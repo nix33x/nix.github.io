@@ -1,0 +1,21 @@
+---
+- Ivan:
+  name: Ivan
+  job: Developer
+  skills:
+    - python
+    - perl
+    - pascal
+
+- Vasya:
+  name: Vasya Popov
+  job: QA
+  skills:
+    - lisp
+    - fortran
+    - erlang
+...
+
+
+
+
